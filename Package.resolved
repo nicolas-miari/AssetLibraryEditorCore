@@ -14,8 +14,8 @@
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/nicolas-miari/AssetLibrary.git",
       "state" : {
-        "revision" : "87dbdeba71aa4ecf5484bf56721b9b75c9efe1ea",
-        "version" : "0.0.1"
+        "revision" : "fe8755874eb437a79e19a24bf9504b1b942ed67a",
+        "version" : "0.0.2"
       }
     },
     {

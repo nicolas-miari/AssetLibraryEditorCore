@@ -16,7 +16,7 @@ let package = Package(
     ],
     dependencies: [
         // Dependencies declare other packages that this package depends on.
-      .package(url: "https://github.com/nicolas-miari/AssetLibrary.git", from: "0.0.1"),
+      .package(url: "https://github.com/nicolas-miari/AssetLibrary.git", from: "0.0.2"),
       .package(url: "https://github.com/nicolas-miari/BinaryResourceProvider.git", from: "0.0.0"),
     ],
     targets: [
