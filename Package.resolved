@@ -1,0 +1,32 @@
+{
+  "pins" : [
+    {
+      "identity" : "asset",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/nicolas-miari/Asset.git",
+      "state" : {
+        "revision" : "016b9d7346573cf4ca688610a159f136f7c7fc8a",
+        "version" : "0.0.0"
+      }
+    },
+    {
+      "identity" : "assetlibrary",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/nicolas-miari/AssetLibrary.git",
+      "state" : {
+        "revision" : "87dbdeba71aa4ecf5484bf56721b9b75c9efe1ea",
+        "version" : "0.0.1"
+      }
+    },
+    {
+      "identity" : "binaryresourceprovider",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/nicolas-miari/BinaryResourceProvider.git",
+      "state" : {
+        "revision" : "9ad4ca2ee4beb90c9e644308a2a33bb214adf1fa",
+        "version" : "0.0.0"
+      }
+    }
+  ],
+  "version" : 2
+}
